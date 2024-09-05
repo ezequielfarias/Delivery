@@ -46,3 +46,15 @@ Aqui estão algumas sugestões de próximos passos para quem quiser contribuir o
 -adicionei pagina de pagamento(30/08)
 1.** inicialização do segundo passo do projeto, a instalação do typescript
     -fiz a instalação do Typescript usando o "npm install -g typescript"
+
+- Ezequiel: - Ajuste de estilização no logo na pagina index.html do projeto
+ação efetuada abaixo
+/* Logo da Humburgueria*/
+.logo  {
+    color:#CC0000;
+    font-size: 1.8rem;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    font-weight: 700;
+}
+
